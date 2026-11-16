@@ -52,7 +52,7 @@ Các ô `#VALUE!` ở cột *Data Rules* của sheet Ref 02 và Ref 03 thực ch
 
 - **Tem PlusA dán trên thùng**: PARTS NO `69DRCT(25Y)`, Item code `4M002303000B`, LOT NO `G6D00492-20861`, Quantity `20,861 PCS`, `CASE 1`, `Label 1/1`, có QR.
 - **Tem PlusA nhỏ**: Lot `G6D00492`, `7,940 PCS`, ngày `14 Apr 2026`, `Pack 001`, dấu QA PASS.
-- **PlusA *Mass Products Shipping Entry***: `Item Tag BC` = Item code + Lot (`53067100000B00825`), có Shipping Instruction No `IDS265090`, Case No.
+- **PlusA – Mass Products Shipping Entry**: `Item Tag BC` = Item code + Lot (`53067100000B00825`), có Shipping Instruction No `IDS265090`, Case No.
 - **SaoMai**:
   - OuterBarcode dạng `IDS265030/27/4M002403000B/G6300243/20934`. [Suy luận] Cấu trúc là Shipping Instruction / Case / Item code / Lot / Qty.
   - InnerBarcode cùng cấu trúc, có thêm số túi.
